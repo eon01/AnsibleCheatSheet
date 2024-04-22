@@ -1,6 +1,62 @@
-# Ansible Cheat Sheet
+<div align="center">
+    <h1>The Ansible Cheat Sheet</h1>
+    <p>A cheat sheet for Ansible, the automation tool.</p>
+    <p>Let's create the largest and most comprehensive cheat sheet for Ansible. If you have a tip or trick that you think should be included, please contribute.</p>
+</div>
 
-- [Ansible Cheat Sheet](#ansible-cheat-sheet)
+<br/>
+
+<div align="center">
+    <img src="https://img.shields.io/github/stars/eon01/AnsibleCheatSheet?style=social"/>
+    <img src="https://img.shields.io/github/forks/eon01/AnsibleCheatSheet?style=social"/>
+    <img src="https://img.shields.io/github/watchers/eon01/AnsibleCheatSheet?style=social"/>
+    <img src="https://img.shields.io/github/last-commit/eon01/AnsibleCheatSheet?style=social"/>
+    <img src="https://img.shields.io/github/contributors/eon01/AnsibleCheatSheet?style=social"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Feon01%2FAnsibleCheatSheet)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/%40joinFAUN)
+
+</div>
+
+# Sponsors
+
+## ❤️ The ansible Workshop: Hands-On Learning For Rapid Mastery
+
+In "The Ansible Workshop," you will deep dive into the world of Ansible, the amazing automation tool that converts complex IT tasks into a set of easy, simple-to-repeat steps. This guide is your roadmap to mastering Ansible, whether you are a novice just starting to use Ansible or an intermediate user who has already used Ansible and is looking for additional information and tricks to enhance your skills.
+
+You can get it on [Amazon](https://amzn.to/3watGU8)
+
+## 📩 DevOpsLinks: The Ultimate DevOps Newsletter
+
+[DevOpsLinks](https://faun.dev/newsletter/devopslinks) - The Ultimate DevOps Newsletter. Curated DevOps news, tutorials, tools, jobs, podcasts, and more. Delivered to your inbox every week.
+
+## 🛍️ ByteVibe: Show off your love for all things TECH
+
+If you're seeking a cozy sweatshirt to wear during your extended coding sessions or a mug to exhibit your passion for programming, [you can find it all here](https://bytevibe.co/)
+
+## 💌 Sponsorship
+
+If you would like to sponsor this project, please contact me at aymen at faun dot dev.
+
+# Call for Contributions
+
+Let's create the largest and most comprehensive list of Ansible tools and resources. If you have a tool or resource that you think should be included, please contribute.
+
+# Table of Contents
+
+- [Sponsors](#sponsors)
+  - [❤️ The ansible Workshop: Hands-On Learning For Rapid Mastery](#️-the-ansible-workshop-hands-on-learning-for-rapid-mastery)
+  - [📩 DevOpsLinks: The Ultimate DevOps Newsletter](#-devopslinks-the-ultimate-devops-newsletter)
+  - [🛍️ ByteVibe: Show off your love for all things TECH](#️-bytevibe-show-off-your-love-for-all-things-tech)
+  - [💌 Sponsorship](#-sponsorship)
+- [Call for Contributions](#call-for-contributions)
+- [Table of Contents](#table-of-contents)
+- [The Ansible Cheat Sheet](#the-ansible-cheat-sheet)
   - [Installing Ansible](#installing-ansible)
     - [On Linux](#on-linux)
     - [On macOS](#on-macos)
@@ -129,6 +185,7 @@
       - [Vim](#vim)
     - [Newsletters](#newsletters)
 
+# The Ansible Cheat Sheet
 
 ## Installing Ansible
 
